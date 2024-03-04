@@ -44,3 +44,6 @@ This project's initial structure and function calling implementation were inspir
 
 - "gpt-function-calling-tutorial" by JayZeeDesign
   [Link to GitHub Repository](https://github.com/JayZeeDesign/gpt-function-calling-tutorial)
+
+## License
+This project is under the MIT License.
